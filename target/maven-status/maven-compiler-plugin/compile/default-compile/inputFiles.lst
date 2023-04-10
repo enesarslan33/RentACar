@@ -1,0 +1,7 @@
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\entities\concretes\Brand.java
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\webApi\controllers\BrandsController.java
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\business\abstracts\BrandService.java
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\dataAccess\abstracts\BrandRepository.java
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\dataAccess\concretes\InMemoryBrandRepository.java
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\business\concretes\BrandManager.java
+C:\campspringg\rentACar\src\main\java\kodlama\io\rentACar\RentACarApplication.java
